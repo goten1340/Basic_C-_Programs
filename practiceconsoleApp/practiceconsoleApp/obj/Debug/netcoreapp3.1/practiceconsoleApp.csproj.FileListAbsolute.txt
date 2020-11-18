@@ -1,0 +1,13 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\practiceconsoleApp\practiceconsoleApp\bin\Debug\netcoreapp3.1\practiceconsoleApp.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\practiceconsoleApp\practiceconsoleApp\bin\Debug\netcoreapp3.1\practiceconsoleApp.deps.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\practiceconsoleApp\practiceconsoleApp\bin\Debug\netcoreapp3.1\practiceconsoleApp.runtimeconfig.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\practiceconsoleApp\practiceconsoleApp\bin\Debug\netcoreapp3.1\practiceconsoleApp.runtimeconfig.dev.json
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\practiceconsoleApp\practiceconsoleApp\bin\Debug\netcoreapp3.1\practiceconsoleApp.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\practiceconsoleApp\practiceconsoleApp\bin\Debug\netcoreapp3.1\practiceconsoleApp.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\practiceconsoleApp\practiceconsoleApp\obj\Debug\netcoreapp3.1\practiceconsoleApp.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\practiceconsoleApp\practiceconsoleApp\obj\Debug\netcoreapp3.1\practiceconsoleApp.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\practiceconsoleApp\practiceconsoleApp\obj\Debug\netcoreapp3.1\practiceconsoleApp.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\practiceconsoleApp\practiceconsoleApp\obj\Debug\netcoreapp3.1\practiceconsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\practiceconsoleApp\practiceconsoleApp\obj\Debug\netcoreapp3.1\practiceconsoleApp.dll
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\practiceconsoleApp\practiceconsoleApp\obj\Debug\netcoreapp3.1\practiceconsoleApp.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\practiceconsoleApp\practiceconsoleApp\obj\Debug\netcoreapp3.1\practiceconsoleApp.genruntimeconfig.cache
