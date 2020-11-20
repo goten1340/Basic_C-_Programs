@@ -10,7 +10,7 @@ namespace Accounting
     {
         static void Main(string[] args)
         {
-            Console.Write("Welcome to Acme Accounting Systems \nremember, we're \"accounting\" on you");
+           Console.Write("Welcome to Acme Accounting Systems \nremember, we're \"accounting\" on you");
            Console.ReadLine();
         }
     }

@@ -1,0 +1,7 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\daily report\daily report\obj\Debug\daily report.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\daily report\daily report\bin\Debug\daily report.exe.config
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\daily report\daily report\bin\Debug\daily report.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\daily report\daily report\bin\Debug\daily report.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\daily report\daily report\obj\Debug\daily report.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\daily report\daily report\obj\Debug\daily report.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\daily report\daily report\obj\Debug\daily report.csprojAssemblyReference.cache
