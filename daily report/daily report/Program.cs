@@ -28,7 +28,9 @@ namespace daily_report
             Console.WriteLine("How many hours did you study?");
             string hoursStudy = Console.ReadLine();
             byte studyHours = Convert.ToByte(hoursStudy);
-            Console.WriteLine("\"Thank you for your answers. An Instructor will respond to this shortly. Have a great day!\"")
+            Console.WriteLine("\"Thank you for your answers. An Instructor will respond to this shortly. Have a great day!\"");
+            Console.ReadLine();
+            
 
 
 
