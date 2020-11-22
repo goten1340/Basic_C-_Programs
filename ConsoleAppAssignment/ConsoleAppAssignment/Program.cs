@@ -10,37 +10,32 @@ namespace ConsoleAppAssignment
     {
         static void Main(string[] args)
         {
-            int times50 = 50;
-            string userInput = Console.ReadLine();
-            int results = Convert.ToInt32(userInput);
-            int superResults = results * times50;
-            Console.Write(superResults);
+            int fall = Convert.ToInt32(Console.ReadLine());
+            int wow = fall * 50;
+            Console.Write(wow);
             Console.ReadLine();
 
-            int plus25 = 25;
-            string superInput = Console.ReadLine();
-            int fieryResult = Convert.ToInt32(superInput);
-            int veryResult = plus25 + fieryResult;
-            Console.WriteLine(veryResult);
+            int call = Convert.ToInt32(Console.ReadLine());
+            int see = call + 25;
+            Console.WriteLine(see);
             Console.ReadLine();
 
-            Decimal divide = 12.5m;
-            string fireInput = Console.ReadLine();
-            decimal convert = Convert.ToDecimal(fireInput);
-            decimal sunResult = convert / divide;
+            
+            
+            decimal divide1 = Convert.ToDecimal(Console.ReadLine());
+            decimal sunResult = divide1 / 12.5m;
             Console.WriteLine(sunResult);
             Console.ReadLine();
 
-            bool trueOrFalse = 51 > 50;
-            string ok = Console.ReadLine();
-            bool ready = Convert.ToBoolean(ok);
-            Console.WriteLine(ready);
+           
+            int ready = Convert.ToInt32(Console.ReadLine());
+            bool gif = ready > 50;
+            Console.WriteLine(gif);
             Console.ReadLine();
 
-            int seven = 7;
-            string forever = Console.ReadLine();
-            int comeOn = Convert.ToInt32(forever);
-            Console.WriteLine(comeOn);
+            int foreal = Convert.ToInt32(Console.ReadLine());
+            int go = foreal % 7;
+            Console.WriteLine(go);
             Console.ReadLine();
             
         }
