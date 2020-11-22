@@ -1,0 +1,7 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe.config
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\BooleanLogicAssignment\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.pdb
