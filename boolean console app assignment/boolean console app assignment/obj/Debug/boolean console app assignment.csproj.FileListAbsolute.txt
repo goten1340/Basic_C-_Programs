@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\boolean console app assignment\boolean console app assignment\bin\Debug\boolean console app assignment.exe.config
+C:\Users\Owner\source\repos\boolean console app assignment\boolean console app assignment\bin\Debug\boolean console app assignment.exe
+C:\Users\Owner\source\repos\boolean console app assignment\boolean console app assignment\bin\Debug\boolean console app assignment.pdb
+C:\Users\Owner\source\repos\boolean console app assignment\boolean console app assignment\obj\Debug\boolean console app assignment.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\boolean console app assignment\boolean console app assignment\obj\Debug\boolean console app assignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\boolean console app assignment\boolean console app assignment\obj\Debug\boolean console app assignment.exe
+C:\Users\Owner\source\repos\boolean console app assignment\boolean console app assignment\obj\Debug\boolean console app assignment.pdb
