@@ -16,20 +16,31 @@ namespace Branching_Assignment
             if (weight > 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
+                Console.ReadLine();
             }
-            Console.WriteLine("Enter package width");
-            int width = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter package height");
-            int height = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter package length");
-            int length = Convert.ToInt32(Console.ReadLine());
-            if (width + height + length > 50)
+            else
             {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
+                Console.WriteLine("Enter package width");
+                int width = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Enter package height");
+                int height = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Enter package length");
+                int length = Convert.ToInt32(Console.ReadLine());
+
+
+                if (width + height + length > 50)
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express.");
+                    Console.ReadLine();
+                }
+                else
+                {
+                    decimal multiplyAndDivide = width * height * length * weight / 100.00m;
+                    Console.WriteLine("Your estimated total for shipping this package is:$" + multiplyAndDivide);
+                    Console.ReadLine();
+                }
+
             }
-            decimal multiplyAndDivide = width * height * length * weight / 100.00m;
-            Console.WriteLine("Your estimated total for shipping this package is:$"+multiplyAndDivide);
-            Console.ReadLine();
         }
     }
 }
