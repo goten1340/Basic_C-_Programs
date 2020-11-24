@@ -76,6 +76,10 @@ namespace ArraysAndListsAssignment
                     {
                         Console.WriteLine("This is an invalid input.");
                     }
+                    else
+                    {
+                        Console.WriteLine(hey[pickANum]);
+                    }
                 }
                 catch (FormatException)
                 {
