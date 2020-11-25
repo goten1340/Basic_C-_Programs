@@ -5,3 +5,10 @@ C:\Users\Owner\source\repos\ArraysAndListsAssignment\ArraysAndListsAssignment\bi
 C:\Users\Owner\source\repos\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.exe
 C:\Users\Owner\source\repos\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.pdb
 C:\Users\Owner\source\repos\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\obj\Debug\ArraysAndListsAssignment.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\ArraysAndListsAssignment.exe.config
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\ArraysAndListsAssignment.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\ArraysAndListsAssignment\ArraysAndListsAssignment\bin\Debug\ArraysAndListsAssignment.pdb
