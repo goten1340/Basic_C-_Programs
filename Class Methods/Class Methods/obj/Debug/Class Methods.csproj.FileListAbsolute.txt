@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\Class Methods\Class Methods\bin\Debug\Class Methods.exe.config
+C:\Users\Owner\source\repos\Class Methods\Class Methods\bin\Debug\Class Methods.exe
+C:\Users\Owner\source\repos\Class Methods\Class Methods\bin\Debug\Class Methods.pdb
+C:\Users\Owner\source\repos\Class Methods\Class Methods\obj\Debug\Class Methods.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Class Methods\Class Methods\obj\Debug\Class Methods.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Class Methods\Class Methods\obj\Debug\Class Methods.exe
+C:\Users\Owner\source\repos\Class Methods\Class Methods\obj\Debug\Class Methods.pdb
