@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\doubleParameters\doubleParameters\bin\Debug\doubleParameters.exe.config
+C:\Users\Owner\source\repos\doubleParameters\doubleParameters\bin\Debug\doubleParameters.exe
+C:\Users\Owner\source\repos\doubleParameters\doubleParameters\bin\Debug\doubleParameters.pdb
+C:\Users\Owner\source\repos\doubleParameters\doubleParameters\obj\Debug\doubleParameters.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\doubleParameters\doubleParameters\obj\Debug\doubleParameters.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\doubleParameters\doubleParameters\obj\Debug\doubleParameters.exe
+C:\Users\Owner\source\repos\doubleParameters\doubleParameters\obj\Debug\doubleParameters.pdb
