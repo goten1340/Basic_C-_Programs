@@ -8,10 +8,10 @@ namespace voidSpace
 {
     class moreParameters
     {
-        public void takeIn(int f, int l)
+        public void takeIn(int input1, int input2)
             {
-                Console.WriteLine( f - 7 + l);
-            
+                input1 += 5;
+                Console.WriteLine(input2);
             }
     }
 }
