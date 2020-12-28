@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\classProperties\classProperties\obj\Debug\classProperties.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\classProperties\classProperties\obj\Debug\classProperties.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\classProperties\classProperties\bin\Debug\classProperties.exe.config
+C:\Users\Owner\source\repos\classProperties\classProperties\bin\Debug\classProperties.exe
+C:\Users\Owner\source\repos\classProperties\classProperties\bin\Debug\classProperties.pdb
+C:\Users\Owner\source\repos\classProperties\classProperties\obj\Debug\classProperties.exe
+C:\Users\Owner\source\repos\classProperties\classProperties\obj\Debug\classProperties.pdb
