@@ -5,3 +5,10 @@ C:\Users\Owner\source\repos\twentyOne\twentyOne\obj\Debug\twentyOne.csprojAssemb
 C:\Users\Owner\source\repos\twentyOne\twentyOne\obj\Debug\twentyOne.csproj.CoreCompileInputs.cache
 C:\Users\Owner\source\repos\twentyOne\twentyOne\obj\Debug\twentyOne.exe
 C:\Users\Owner\source\repos\twentyOne\twentyOne\obj\Debug\twentyOne.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\twentyOne\twentyOne\bin\Debug\twentyOne.exe.config
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\twentyOne\twentyOne\bin\Debug\twentyOne.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\twentyOne\twentyOne\bin\Debug\twentyOne.pdb
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\twentyOne\twentyOne\obj\Debug\twentyOne.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\twentyOne\twentyOne\obj\Debug\twentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\twentyOne\twentyOne\obj\Debug\twentyOne.exe
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\twentyOne\twentyOne\obj\Debug\twentyOne.pdb
