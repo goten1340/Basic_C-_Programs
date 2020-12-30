@@ -13,6 +13,6 @@ namespace Interface_Assignment
         {
             Console.WriteLine("I Quit");
             Console.ReadLine();
-        } 
+        }
     }
 }
