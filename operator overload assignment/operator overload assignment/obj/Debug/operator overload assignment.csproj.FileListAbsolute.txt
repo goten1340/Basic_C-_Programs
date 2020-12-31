@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\operator overload assignment\operator overload assignment\bin\Debug\operator overload assignment.exe.config
+C:\Users\Owner\source\repos\operator overload assignment\operator overload assignment\bin\Debug\operator overload assignment.exe
+C:\Users\Owner\source\repos\operator overload assignment\operator overload assignment\bin\Debug\operator overload assignment.pdb
+C:\Users\Owner\source\repos\operator overload assignment\operator overload assignment\obj\Debug\operator overload assignment.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\operator overload assignment\operator overload assignment\obj\Debug\operator overload assignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\operator overload assignment\operator overload assignment\obj\Debug\operator overload assignment.exe
+C:\Users\Owner\source\repos\operator overload assignment\operator overload assignment\obj\Debug\operator overload assignment.pdb
