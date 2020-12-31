@@ -21,7 +21,7 @@ namespace twentyOne
         public static Game operator- (Game game, Player player)
         {
             game.Players.Remove(player);
-                return game;
+			return game;
         }
     }
 }

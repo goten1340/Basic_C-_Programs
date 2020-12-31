@@ -15,12 +15,13 @@ namespace twentyOne
                 //game.Players = new List<string>() { "Jessie", "billie", "Bob" };
                 //game.ListPlayers();
                 //Console.ReadLine();
-                Game game = new TwentyOneGame();
-                game.Players = new List<Player>();
-                Player player = new Player();
-                player.Name = "Jesse";
-                game += player;
-                game -= player;
+                //Game game = new TwentyOneGame();
+                //game.Players = new List<Player>();
+                //Player player = new Player();
+                //player.Name = "Jesse";
+                //game += player;
+                //game -= player;
+                Player<Card> player = new Player<Card>();
                 Deck deck = new Deck();
                 deck.Shuffle(3);
 
@@ -30,7 +31,7 @@ namespace twentyOne
                     Console.WriteLine(card.Face + " of " + card.Suit);
                 }
                 Console.WriteLine(deck.Cards.Count);
-                //    Console.ReadLine();
+                Console.ReadLine();
                 //}
 
 

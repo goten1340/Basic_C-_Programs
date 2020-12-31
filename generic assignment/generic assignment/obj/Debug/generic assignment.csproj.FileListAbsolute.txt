@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\generic assignment\generic assignment\bin\Debug\generic assignment.exe.config
+C:\Users\Owner\source\repos\generic assignment\generic assignment\bin\Debug\generic assignment.exe
+C:\Users\Owner\source\repos\generic assignment\generic assignment\bin\Debug\generic assignment.pdb
+C:\Users\Owner\source\repos\generic assignment\generic assignment\obj\Debug\generic assignment.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\generic assignment\generic assignment\obj\Debug\generic assignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\generic assignment\generic assignment\obj\Debug\generic assignment.exe
+C:\Users\Owner\source\repos\generic assignment\generic assignment\obj\Debug\generic assignment.pdb
