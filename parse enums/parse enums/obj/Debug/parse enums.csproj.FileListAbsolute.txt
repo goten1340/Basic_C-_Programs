@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\parse enums\parse enums\bin\Debug\parse enums.exe.config
+C:\Users\Owner\source\repos\parse enums\parse enums\bin\Debug\parse enums.exe
+C:\Users\Owner\source\repos\parse enums\parse enums\bin\Debug\parse enums.pdb
+C:\Users\Owner\source\repos\parse enums\parse enums\obj\Debug\parse enums.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\parse enums\parse enums\obj\Debug\parse enums.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\parse enums\parse enums\obj\Debug\parse enums.exe
+C:\Users\Owner\source\repos\parse enums\parse enums\obj\Debug\parse enums.pdb

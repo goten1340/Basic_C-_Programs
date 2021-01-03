@@ -21,7 +21,8 @@ namespace twentyOne
                 //player.Name = "Jesse";
                 //game += player;
                 //game -= player;
-                Player<Card> player = new Player<Card>();
+                //Player<Card> player = new Player<Card>();
+                
                 Deck deck = new Deck();
                 deck.Shuffle(3);
 
@@ -32,6 +33,7 @@ namespace twentyOne
                 }
                 Console.WriteLine(deck.Cards.Count);
                 Console.ReadLine();
+                }
                 //}
 
 
@@ -46,4 +48,3 @@ namespace twentyOne
         }
 
     }
-}
