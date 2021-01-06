@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IYMHR0P1oX6s/75xbMlVtfMEljeddH6nSo9mjpDJiIcHMv+y8QkU/TdP5bEiWgKidGFEGeNmcuLXujgp9NhZLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\source\\repos\\LambaAssignment\\LambaAssignment\\LambaAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

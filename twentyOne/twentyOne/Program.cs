@@ -10,14 +10,20 @@ namespace twentyOne
     {
         static void Main(string[] args)
         {
-            {
-                int number = 5;
-                Card card1 = new Card();
-                Card card2 = card1;
-                card1.Face = Face.eight;
-                card2.Face = Face.king;
+            Deck deck = new Deck();
 
-                Console.WriteLine(card1.Face);
+            //int count = deck.Cards.Count(x => x.Face == Face.ace);
+            
+            }
+
+            //{
+            //    int number = 5;
+            //    Card card1 = new Card();
+            //    Card card2 = card1;
+            //    card1.Face = Face.eight;
+            //    card2.Face = Face.king;
+
+            //    Console.WriteLine(card1.Face);
                 //TwentyOneGame game = new TwentyOneGame();
                 //game.Players = new List<string>() { "Jessie", "billie", "Bob" };
                 //game.ListPlayers();
@@ -54,4 +60,4 @@ namespace twentyOne
             }
         }
 
-    }
+    

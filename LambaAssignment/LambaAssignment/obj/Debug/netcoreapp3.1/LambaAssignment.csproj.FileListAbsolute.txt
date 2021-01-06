@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\LambaAssignment\LambaAssignment\bin\Debug\netcoreapp3.1\LambaAssignment.exe
+C:\Users\Owner\source\repos\LambaAssignment\LambaAssignment\bin\Debug\netcoreapp3.1\LambaAssignment.deps.json
+C:\Users\Owner\source\repos\LambaAssignment\LambaAssignment\bin\Debug\netcoreapp3.1\LambaAssignment.runtimeconfig.json
+C:\Users\Owner\source\repos\LambaAssignment\LambaAssignment\bin\Debug\netcoreapp3.1\LambaAssignment.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\LambaAssignment\LambaAssignment\bin\Debug\netcoreapp3.1\LambaAssignment.dll
+C:\Users\Owner\source\repos\LambaAssignment\LambaAssignment\bin\Debug\netcoreapp3.1\LambaAssignment.pdb
+C:\Users\Owner\source\repos\LambaAssignment\LambaAssignment\obj\Debug\netcoreapp3.1\LambaAssignment.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\LambaAssignment\LambaAssignment\obj\Debug\netcoreapp3.1\LambaAssignment.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\LambaAssignment\LambaAssignment\obj\Debug\netcoreapp3.1\LambaAssignment.AssemblyInfo.cs
+C:\Users\Owner\source\repos\LambaAssignment\LambaAssignment\obj\Debug\netcoreapp3.1\LambaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\LambaAssignment\LambaAssignment\obj\Debug\netcoreapp3.1\LambaAssignment.dll
+C:\Users\Owner\source\repos\LambaAssignment\LambaAssignment\obj\Debug\netcoreapp3.1\LambaAssignment.pdb
+C:\Users\Owner\source\repos\LambaAssignment\LambaAssignment\obj\Debug\netcoreapp3.1\LambaAssignment.genruntimeconfig.cache
