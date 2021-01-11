@@ -1,0 +1,13 @@
+C:\Users\Owner\source\repos\logs\logs\obj\Debug\netcoreapp3.1\logs.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\logs\logs\obj\Debug\netcoreapp3.1\logs.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\logs\logs\obj\Debug\netcoreapp3.1\logs.AssemblyInfo.cs
+C:\Users\Owner\source\repos\logs\logs\obj\Debug\netcoreapp3.1\logs.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\logs\logs\bin\Debug\netcoreapp3.1\logs.exe
+C:\Users\Owner\source\repos\logs\logs\bin\Debug\netcoreapp3.1\logs.deps.json
+C:\Users\Owner\source\repos\logs\logs\bin\Debug\netcoreapp3.1\logs.runtimeconfig.json
+C:\Users\Owner\source\repos\logs\logs\bin\Debug\netcoreapp3.1\logs.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\logs\logs\bin\Debug\netcoreapp3.1\logs.dll
+C:\Users\Owner\source\repos\logs\logs\bin\Debug\netcoreapp3.1\logs.pdb
+C:\Users\Owner\source\repos\logs\logs\obj\Debug\netcoreapp3.1\logs.dll
+C:\Users\Owner\source\repos\logs\logs\obj\Debug\netcoreapp3.1\logs.pdb
+C:\Users\Owner\source\repos\logs\logs\obj\Debug\netcoreapp3.1\logs.genruntimeconfig.cache
