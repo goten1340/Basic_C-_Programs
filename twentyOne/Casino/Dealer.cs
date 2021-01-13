@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.IO
-namespace twentyOne
+using System.IO;
+namespace Casino
 {
     public class Dealer
     {
@@ -17,7 +17,7 @@ namespace twentyOne
             Hand.Add(Deck.Cards.First());
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
-            using (StreamWriter file = new StreamReader(@"C:\users\jesse\logs\log.txt", true))
+            using (StreamWriter file = new StreamWriter(@"C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\logs\logs\logs.txt", true))
             {
                 file.WriteLine(DateTime.Now);
                 file.WriteLine(card);

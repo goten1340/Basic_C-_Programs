@@ -1,0 +1,2 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\twentyOne\twentyOne2\obj\Debug\twentyOne2.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\twentyOne\twentyOne2\obj\Debug\twentyOne2.csproj.CoreCompileInputs.cache

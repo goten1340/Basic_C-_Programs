@@ -1,0 +1,4 @@
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\twentyOne\twentyone1\obj\Debug\netcoreapp3.1\twentyone1.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\twentyOne\twentyone1\obj\Debug\netcoreapp3.1\twentyone1.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\twentyOne\twentyone1\obj\Debug\netcoreapp3.1\twentyone1.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\Desktop\Basic_C#_Programs\twentyOne\twentyone1\obj\Debug\netcoreapp3.1\twentyone1.csproj.CoreCompileInputs.cache

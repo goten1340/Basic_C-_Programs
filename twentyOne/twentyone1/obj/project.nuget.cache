@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7X2C8xTgq3ph95QOjeVCsPb22yqZbj/0qcJ5KB3I048Y3H1dgsCmHKA5gZl/W+JQYpA6CnfxMG7l1w9iToHcEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\OneDrive\\Desktop\\Basic_C#_Programs\\twentyOne\\twentyone1\\twentyone1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
