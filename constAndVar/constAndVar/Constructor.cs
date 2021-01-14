@@ -8,27 +8,27 @@ namespace constAndVar
 {
     class Constructor
     {
-        
-            public int id;
-            public string name;
+        {
+            private int id;
+            private string name;
 
-            public Constructor() : this(0, "")
+            public Prepare() : this(0, "")
             {
             }
 
-            public Constructor(int id, string name)
+            public Prepare(int id, string name)
             {
                 this.id = id;
                 this.name = name;
             }
 
-            public Constructor(int id) : this(id, "")
+            public Prepare(int id) : this(id, "")
             {
             }
 
-            public Constructor(string name) : this(0, name)
+            public Prepare(string name) : this(0, name)
             {
             }
-        
+        }
     }
 }
