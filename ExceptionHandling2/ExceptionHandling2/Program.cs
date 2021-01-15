@@ -16,6 +16,10 @@ namespace ExceptionHandling2
             {
                 Console.WriteLine("What is your age?");
                 int Age = Convert.ToInt32(Console.ReadLine());
+                if (Age < 1) ;
+                {
+                    throw new FormatException(); 
+                }
                 int now = DateTime.Now.Year;
                 int birthYear = now - Age;
                 //DateTime displayBirthYear = now.AddYears(-Age);
@@ -28,14 +32,16 @@ namespace ExceptionHandling2
             {
                 Console.WriteLine("Cannot enter a zero or negative number.");
                 Console.ReadLine();
-                return;
+                
             }
             catch (Exception)
             {
                 Console.WriteLine("Sorry there was an error in your input.");
                 Console.ReadLine();
-                return;
-            }   
+                
+            }
+            
         }
-    }
+        
+    }   
 }

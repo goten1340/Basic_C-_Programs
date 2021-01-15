@@ -74,6 +74,11 @@ namespace twentyOne
             Console.Read();
 
         }
+
+        private static void UpdateDbWithException(Exception ex)
+        {
+            string connectionString = 
+        }
     }
 }
     
