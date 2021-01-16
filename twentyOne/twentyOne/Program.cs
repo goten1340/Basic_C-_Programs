@@ -123,12 +123,28 @@ namespace twentyOne
 
             List<ExceptionEntity> Exceptions = new List<ExceptionEntity>();
 
-            using (SqlConnection connection = new SqlConnection(connectionString));
+            using (SqlConnection connection = new SqlConnection(connectionString))
             {
-                SqlConnection command = new SqlCommand(queryString, connection);
+                SqlCommand command = new SqlCommand(queryString, connection);
 
-                connection.open
+                connection.Open();
+
+                SqlDataReader reader = command.ExecuteReader();
+
+                while (reader.Read());
+                {
+                    ExceptionEntity exception = new ExceptionEntity();
+                    exception.Id = Convert.ToInt32(reader["Id"]);
+                    exception.ExceptionType = reader["ExceptionType"].ToString();
+                    exception.ExceptionMessage = reader["ExceptionMessage"].ToString();
+                    exception.TimeStamp = Convert.ToDateTime(reader["TimeStamp"]);
+                    Exceptions.Add(exception);
+
+                }
+                connection.Close();
             }
+
+            return Exceptions;
 
         }
     }

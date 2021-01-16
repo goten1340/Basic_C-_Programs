@@ -16,7 +16,7 @@ namespace ExceptionHandling2
             {
                 Console.WriteLine("What is your age?");
                 int Age = Convert.ToInt32(Console.ReadLine());
-                if (Age < 1) ;
+                if (Age < 1)
                 {
                     throw new FormatException(); 
                 }
